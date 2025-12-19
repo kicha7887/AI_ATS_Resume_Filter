@@ -1,0 +1,14 @@
+We are seeking a Cloud Engineer to manage cloud infrastructure.
+
+Required Skills:
+- Cloud Computing
+- AWS/Azure/GCP
+- Linux
+- Networking
+- Security Basics
+
+Responsibilities:
+- Deploy cloud resources
+- Maintain cloud systems
+- Monitor performance
+- Ensure availability

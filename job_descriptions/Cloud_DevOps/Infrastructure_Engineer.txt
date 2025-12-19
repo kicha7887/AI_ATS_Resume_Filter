@@ -1,0 +1,14 @@
+We are hiring an Infrastructure Engineer to maintain IT systems.
+
+Required Skills:
+- Networking
+- Linux
+- Cloud Platforms
+- Hardware Basics
+- Automation Tools
+
+Responsibilities:
+- Manage infrastructure
+- Maintain servers
+- Improve system efficiency
+- Ensure uptime

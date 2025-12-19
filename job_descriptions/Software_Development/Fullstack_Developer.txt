@@ -1,0 +1,14 @@
+We are seeking a Fullstack Developer to handle frontend and backend development.
+
+Required Skills:
+- Python
+- JavaScript
+- HTML, CSS
+- Databases
+- REST APIs
+
+Responsibilities:
+- Develop full-stack applications
+- Integrate frontend and backend
+- Debug issues
+- Optimize performance

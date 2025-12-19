@@ -1,0 +1,14 @@
+We are hiring a Data Analyst to transform data into actionable insights.
+
+Required Skills:
+- Python
+- SQL
+- Data Analysis
+- Excel
+- Data Visualization
+
+Responsibilities:
+- Analyze datasets
+- Generate reports
+- Identify trends
+- Support business decisions

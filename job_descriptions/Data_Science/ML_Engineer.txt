@@ -1,0 +1,14 @@
+We are looking for a Machine Learning Engineer to design and deploy ML models.
+
+Required Skills:
+- Python
+- Machine Learning Algorithms
+- Scikit-learn
+- Model Optimization
+- Data Preprocessing
+
+Responsibilities:
+- Build and train ML models
+- Optimize model performance
+- Deploy ML solutions
+- Work with large datasets

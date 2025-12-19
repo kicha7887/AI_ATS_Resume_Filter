@@ -1,0 +1,14 @@
+We are looking for a JavaScript Developer for web applications.
+
+Required Skills:
+- JavaScript
+- Frontend Frameworks
+- APIs
+- HTML
+- CSS
+
+Responsibilities:
+- Write JavaScript code
+- Build interactive features
+- Integrate APIs
+- Debug issues

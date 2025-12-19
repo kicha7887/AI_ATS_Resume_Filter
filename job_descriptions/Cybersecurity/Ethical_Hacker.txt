@@ -1,0 +1,13 @@
+We are hiring an Ethical Hacker to identify security weaknesses.
+
+Required Skills:
+- Ethical Hacking
+- Cybersecurity
+- Network Security
+- Security Tools
+
+Responsibilities:
+- Conduct security testing
+- Identify vulnerabilities
+- Report risks
+- Support security improvements

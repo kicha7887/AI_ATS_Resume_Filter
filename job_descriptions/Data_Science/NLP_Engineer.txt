@@ -1,0 +1,15 @@
+We are looking for an NLP Engineer with expertise in text analytics.
+
+Required Skills:
+- Python
+- Natural Language Processing
+- Machine Learning
+- Text Processing
+- Scikit-learn
+- Transformers
+
+Responsibilities:
+- Develop NLP pipelines
+- Perform text classification
+- Extract insights from text data
+- Improve language models

@@ -1,0 +1,14 @@
+We are seeking a Frontend Developer to build user interfaces.
+
+Required Skills:
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+- UI Principles
+
+Responsibilities:
+- Develop frontend interfaces
+- Ensure responsiveness
+- Improve UI/UX
+- Fix frontend bugs

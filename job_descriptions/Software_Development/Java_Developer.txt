@@ -1,0 +1,14 @@
+We are looking for a Java Developer to build enterprise applications.
+
+Required Skills:
+- Java
+- Object-Oriented Programming
+- Data Structures
+- SQL
+- Spring Framework
+
+Responsibilities:
+- Develop Java applications
+- Maintain code quality
+- Fix bugs
+- Collaborate with developers

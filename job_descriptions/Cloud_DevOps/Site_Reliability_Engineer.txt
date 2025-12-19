@@ -1,0 +1,14 @@
+We are seeking an SRE to ensure system reliability.
+
+Required Skills:
+- Linux
+- Monitoring Tools
+- Cloud Infrastructure
+- Automation
+- Problem Solving
+
+Responsibilities:
+- Monitor system health
+- Automate operations
+- Reduce downtime
+- Improve reliability

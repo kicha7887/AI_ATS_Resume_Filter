@@ -1,0 +1,15 @@
+We are seeking a Data Scientist with strong analytical and problem-solving skills.
+
+Required Skills:
+- Python
+- Machine Learning
+- Statistics
+- Data Analysis
+- Pandas, NumPy
+- Data Visualization
+
+Responsibilities:
+- Analyze structured and unstructured data
+- Build predictive models
+- Interpret data insights
+- Communicate results to stakeholders

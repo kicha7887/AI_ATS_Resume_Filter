@@ -1,0 +1,14 @@
+We are hiring a DevOps Engineer to automate deployment processes.
+
+Required Skills:
+- Linux
+- CI/CD
+- Docker
+- Kubernetes
+- Cloud Platforms
+
+Responsibilities:
+- Automate deployments
+- Manage CI/CD pipelines
+- Monitor systems
+- Improve infrastructure reliability

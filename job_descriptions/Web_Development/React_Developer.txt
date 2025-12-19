@@ -1,0 +1,14 @@
+We are looking for a React Developer to build modern web apps.
+
+Required Skills:
+- JavaScript
+- React.js
+- HTML
+- CSS
+- APIs
+
+Responsibilities:
+- Build React components
+- Manage state
+- Integrate APIs
+- Optimize performance

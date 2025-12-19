@@ -1,0 +1,14 @@
+We are hiring a Backend Developer to build server-side logic.
+
+Required Skills:
+- Python or Java
+- Databases
+- REST APIs
+- System Design
+- SQL
+
+Responsibilities:
+- Develop backend services
+- Manage databases
+- Integrate APIs
+- Ensure system performance

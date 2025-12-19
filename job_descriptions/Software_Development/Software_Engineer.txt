@@ -1,0 +1,14 @@
+We are hiring a Software Engineer with strong programming fundamentals.
+
+Required Skills:
+- Python or Java
+- Data Structures
+- Algorithms
+- Problem Solving
+- Software Design
+
+Responsibilities:
+- Develop software solutions
+- Write efficient code
+- Debug and test applications
+- Participate in design discussions

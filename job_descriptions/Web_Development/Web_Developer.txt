@@ -1,0 +1,14 @@
+We are seeking a Web Developer to build and maintain websites.
+
+Required Skills:
+- HTML
+- CSS
+- JavaScript
+- Web Technologies
+- Debugging
+
+Responsibilities:
+- Develop websites
+- Maintain web applications
+- Fix bugs
+- Optimize performance

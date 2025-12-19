@@ -1,0 +1,14 @@
+We are hiring a Penetration Tester to assess system vulnerabilities.
+
+Required Skills:
+- Ethical Hacking
+- Network Security
+- Vulnerability Assessment
+- Kali Linux
+- Security Tools
+
+Responsibilities:
+- Perform penetration tests
+- Identify vulnerabilities
+- Prepare security reports
+- Recommend fixes

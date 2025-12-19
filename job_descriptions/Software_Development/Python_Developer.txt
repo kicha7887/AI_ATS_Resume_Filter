@@ -1,0 +1,14 @@
+We are looking for a Python Developer to build scalable applications.
+
+Required Skills:
+- Python
+- Object-Oriented Programming
+- Data Structures
+- APIs
+- Debugging
+
+Responsibilities:
+- Develop Python applications
+- Write clean and maintainable code
+- Debug and test software
+- Collaborate with teams

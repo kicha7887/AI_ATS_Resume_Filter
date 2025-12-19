@@ -1,0 +1,14 @@
+We are seeking a Security Analyst to monitor security threats.
+
+Required Skills:
+- Cybersecurity Basics
+- Network Security
+- Risk Analysis
+- Incident Response
+- Monitoring Tools
+
+Responsibilities:
+- Monitor security events
+- Analyze threats
+- Respond to incidents
+- Improve security posture

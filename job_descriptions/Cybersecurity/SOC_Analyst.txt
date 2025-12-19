@@ -1,0 +1,13 @@
+We are looking for a SOC Analyst to monitor security operations.
+
+Required Skills:
+- SIEM Tools
+- Network Security
+- Incident Handling
+- Log Analysis
+
+Responsibilities:
+- Monitor alerts
+- Investigate incidents
+- Escalate threats
+- Maintain security logs

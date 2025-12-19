@@ -1,0 +1,14 @@
+We are looking for an AWS Engineer to manage AWS services.
+
+Required Skills:
+- AWS Services
+- EC2, S3, IAM
+- Linux
+- Networking
+- Security
+
+Responsibilities:
+- Configure AWS resources
+- Manage cloud costs
+- Ensure security compliance
+- Optimize infrastructure

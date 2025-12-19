@@ -1,0 +1,13 @@
+We are seeking a Network Security Engineer to protect networks.
+
+Required Skills:
+- Networking
+- Firewalls
+- IDS/IPS
+- Security Protocols
+
+Responsibilities:
+- Secure network infrastructure
+- Monitor network traffic
+- Implement security controls
+- Prevent cyber attacks
