@@ -1,6 +1,5 @@
-nltk
+streamlit
 scikit-learn
-numpy
-pandas
+plotly
 PyPDF2
 python-docx
