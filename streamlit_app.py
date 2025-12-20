@@ -1,5 +1,6 @@
 import streamlit as st
 import plotly.graph_objects as go
+import pandas as pd
 import os
 import shutil
 import re
@@ -253,3 +254,6 @@ if st.session_state.report_generated:
             st.button("🤩 Excellent", key="fb_excellent")
 
         st.markdown('</div>', unsafe_allow_html=True)
+# ================= END OF FILE =================
+
+#run: streamlit run streamlit_app.py
