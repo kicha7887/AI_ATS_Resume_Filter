@@ -25,6 +25,12 @@ if "score" not in st.session_state:
 # ================= THEME & HOVER FIX =================
 st.markdown("""
 <style>
+
+/* REMOVE STREAMLIT TOP PADDING */
+.block-container {
+    padding-top: 0rem !important;
+}
+
 /* -------- BACKGROUND -------- */
 [data-testid="stAppViewContainer"] {
     background: radial-gradient(circle at top right, #2b1a5c, #05030c 65%);
@@ -42,7 +48,14 @@ label {
     color: #d1d5ff !important;
 }
 
-/* ================= ALL BUTTONS BASE ================= */
+/* FORCE TITLE TO TOP */
+.app-title {
+    text-align: center;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* ================= BUTTONS ================= */
 button[kind="primary"],
 button[kind="secondary"] {
     background: linear-gradient(135deg, #7f00ff, #a855f7) !important;
@@ -52,42 +65,27 @@ button[kind="secondary"] {
     transition: all 0.3s ease-in-out !important;
 }
 
-/* ================= ALL BUTTONS HOVER GLOW ================= */
 button[kind="primary"]:hover,
 button[kind="secondary"]:hover {
     transform: scale(1.08);
-
-    /* PURPLE NEON GLOW */
-     box-shadow:
-        0 0 6px rgba(168, 85, 247, 0.45),
-        0 0 14px rgba(168, 85, 247, 0.55),
-        0 0 26px rgba(168, 85, 247, 0.65);
-
-    filter: drop-shadow(0 0 5px rgba(168, 85, 247, 0.6));
+    box-shadow:
+        0 0 5px rgba(168, 85, 247, 0.25),
+        0 0 12px rgba(168, 85, 247, 0.55),
+        0 0 10px rgba(168, 85, 247, 0.65);
 }
 
-/* ================= FEEDBACK BUTTON BASE ================= */
+/* ================= FEEDBACK BUTTONS ================= */
 #feedback-section button {
-    background: linear-gradient(135deg, #7f00ff, #a855f7) !important;
-    color: white !important;
-    border: none !important;
     font-size: 26px !important;
     padding: 18px 26px !important;
     border-radius: 22px !important;
-    transition: all 0.3s ease-in-out !important;
 }
 
-/* ================= FEEDBACK BUTTON HOVER ================= */
 #feedback-section button:hover {
     transform: scale(1.25);
-
-    /* STRONGER GLOW */
-     box-shadow:
-        0 0 6px rgba(168, 85, 247, 0.45),
-        0 0 14px rgba(168, 85, 247, 0.55),
-        0 0 26px rgba(168, 85, 247, 0.65);
-
-    filter: drop-shadow(0 0 5px rgba(168, 85, 247, 0.6));
+    box-shadow:
+        0 0 5px rgba(168, 85, 247, 0.5),
+        0 0 10px rgba(168, 85, 247, 0.5);
 }
 
 </style>
