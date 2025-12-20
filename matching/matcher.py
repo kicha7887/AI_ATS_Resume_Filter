@@ -52,3 +52,4 @@ def explain_score(resume_text, jd_text):
     jd_words = set(jd_text.lower().split())
     matched = resume_words.intersection(jd_words)
     return list(matched)[:10]  # top 10 reasons
+
