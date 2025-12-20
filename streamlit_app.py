@@ -14,6 +14,15 @@ from matching.matcher import match_resumes
 # ================= PAGE CONFIG =================
 st.set_page_config(page_title="AI-Based ATS", layout="wide")
 
+# ================= VERCEL SPEED INSIGHTS =================
+# Inject Vercel Speed Insights tracking script for performance monitoring
+st.markdown("""
+<script>
+    window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
+""", unsafe_allow_html=True)
+
 # ================= SESSION STATE =================
 if "report_generated" not in st.session_state:
     st.session_state.report_generated = False
