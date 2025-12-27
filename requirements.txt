@@ -6,3 +6,4 @@ python-docx
 pdfminer.six
 nltk
 openai
+python-dotenv
